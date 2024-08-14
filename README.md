@@ -1,6 +1,4 @@
-
 # Demo-Crud
-Demo-Crud
 
 This is the test task which demonstrate how to implement RestFul services with Spring boot framework.
 
